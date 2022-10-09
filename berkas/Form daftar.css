@@ -1,0 +1,15 @@
+.body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.background-blue{
+    background: #9bd3f3;
+}
+.background-linear{
+    background: linear-gradient(180deg, #EB5A63 0%, rgba(40, 102, 121, 0) 100%);
+}
+.background-pink{
+    background: #EB5A63;
+}
+.color-black{
+    color:black;
+}
